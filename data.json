@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "John Smith",
-    "pictureURL": "https://example.com/john_smith.jpg",
+    "pictureURL": "https://i.ibb.co/fqynLYJ/John.jpg",
     "yearsOfExperience": 5,
     "numberOfRecipes": 25,
     "totalLikes": 100,
@@ -60,7 +60,7 @@
   {
     "id": 2,
     "name": "Emily Jones",
-    "pictureURL": "https://example.com/emily_jones.jpg",
+    "pictureURL": "https://i.ibb.co/RpTsVT9/Emily.jpg",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "totalLikes": 500,
@@ -121,7 +121,7 @@
   {
     "id": 3,
     "name": "David Lee",
-    "pictureURL": "https://example.com/david_lee.jpg",
+    "pictureURL": "https://i.ibb.co/P4ZTwsg/David.jpg",
     "yearsOfExperience": 3,
     "numberOfRecipes": 15,
     "totalLikes": 50,
@@ -182,7 +182,7 @@
   {
     "id": 4,
     "name": "Sarah Kim",
-    "pictureURL": "https://example.com/sarah_kim.jpg",
+    "pictureURL": "https://i.ibb.co/3yhxggm/Sarah.jpg",
     "yearsOfExperience": 7,
     "numberOfRecipes": 30,
     "totalLikes": 200,
@@ -239,7 +239,7 @@
   {
     "id": 5,
     "name": "Michael Chen",
-    "pictureURL": "https://example.com/michael_chen.jpg",
+    "pictureURL": "https://i.ibb.co/zVHWNjQ/Michael.jpg",
     "yearsOfExperience": 12,
     "numberOfRecipes": 70,
     "totalLikes": 1000,
@@ -306,7 +306,7 @@
   {
     "id": 6,
     "name": "Lisa Nguyen",
-    "pictureURL": "https://example.com/lisa_nguyen.jpg",
+    "pictureURL": "https://i.ibb.co/88mZQyk/Lisa.jpg",
     "yearsOfExperience": 4,
     "numberOfRecipes": 20,
     "totalLikes": 75,
