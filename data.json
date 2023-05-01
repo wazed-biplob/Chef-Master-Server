@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "pictureURL": "https://example.com/john_smith.jpg",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 25,
+    "totalLikes": 100,
+    "bio": "Chef with a focus on farm-to-table cuisine and using locally sourced ingredients.",
+    "recipes": [
+      {
+        "recipeName": "Classic American Cheeseburger",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 tsp salt",
+          "1/4 tsp black pepper",
+          "4 slices American cheese",
+          "4 hamburger buns",
+          "1/4 cup ketchup",
+          "1/4 cup mayonnaise",
+          "1/2 onion, sliced",
+          "4 leaves lettuce"
+        ],
+        "cookingMethod": "1. Preheat grill or grill pan to high heat. \n2. In a large bowl, combine ground beef, salt, and black pepper. Mix well and form into four patties. \n3. Grill patties for 3-4 minutes per side, or until desired doneness is reached. During the last minute of cooking, top each patty with a slice of American cheese. \n4. Toast hamburger buns on the grill for 1-2 minutes. \n5. Assemble burgers by spreading ketchup and mayonnaise on the bottom bun, followed by lettuce, the cooked patty with cheese, and sliced onion. Top with the remaining bun. \n6. Serve and enjoy!",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Oregano",
+          "Salt",
+          "Pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a pan. 3. Add onion and garlic and cook until softened. 4. Add tomato sauce, oregano, salt, and pepper. 5. Simmer for 15-20 minutes. 6. Serve over spaghetti.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": [
+          "Chicken breasts",
+          "Bell peppers",
+          "Onion",
+          "Garlic",
+          "Cumin",
+          "Chili powder",
+          "Salt",
+          "Pepper"
+        ],
+        "cookingMethod": "1. Cut chicken and vegetables into strips. 2. Season chicken with cumin, chili powder, salt, and pepper. 3. Heat a pan over high heat. 4. Add chicken and cook until browned. 5. Add vegetables and garlic and cook until tender. 6. Serve with tortillas and toppings of your choice.",
+        "rating": 4.2
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Emily Jones",
+    "pictureURL": "https://example.com/emily_jones.jpg",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "totalLikes": 500,
+    "bio": "Award-winning pastry chef known for creative and innovative dessert creations.",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound spaghetti",
+          "1 pound ground beef",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "1 can crushed tomatoes",
+          "1 tablespoon tomato paste",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "Salt and pepper to taste",
+          "Parmesan cheese for serving"
+        ],
+        "cookingMethod": "Cook spaghetti according to package instructions. Meanwhile, brown ground beef in a large skillet over medium heat. Add onion and garlic and cook until softened. Add crushed tomatoes, tomato paste, oregano, basil, red pepper flakes, salt, and pepper. Simmer for 10 minutes. Serve over spaghetti with Parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stew",
+        "ingredients": [
+          "Beef chuck",
+          "Carrots",
+          "Potatoes",
+          "Onion",
+          "Garlic",
+          "Tomato paste",
+          "Beef broth",
+          "Thyme",
+          "Bay leaves",
+          "Salt",
+          "Pepper"
+        ],
+        "cookingMethod": "1. Brown beef in a pot. 2. Add onion and garlic and cook until softened. 3. Add tomato paste and stir for 1 minute. 4. Add beef broth, thyme, bay leaves, salt, and pepper. 5. Bring to a simmer and cook for 2 hours. 6. Add carrots and potatoes and cook for an additional hour. 7. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Grilled Salmon",
+        "ingredients": [
+          "Salmon fillets",
+          "Lemon",
+          "Olive oil",
+          "Garlic",
+          "Salt",
+          "Pepper"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat. 2. Season salmon with olive oil, garlic, salt, and pepper. 3. Grill salmon for 5-7 minutes on each side. 4. Squeeze lemon juice over salmon before serving.",
+        "rating": 4.7
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "David Lee",
+    "pictureURL": "https://example.com/david_lee.jpg",
+    "yearsOfExperience": 3,
+    "numberOfRecipes": 15,
+    "totalLikes": 50,
+    "bio": "Chef specializing in traditional Italian cuisine with a modern twist.",
+    "recipes": [
+      {
+        "recipeName": "Shepherd's Pie",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "2 carrots, peeled and diced",
+          "2 stalks celery, diced",
+          "1 cup beef broth",
+          "1 tbsp tomato paste",
+          "1 tbsp Worcestershire sauce",
+          "1 tsp salt",
+          "1/4 tsp black pepper",
+          "3 cups mashed potatoes"
+        ],
+        "cookingMethod": "1. Preheat oven to 375�F. \n2. In a large skillet, cook ground beef over medium-high heat until browned. Drain excess fat. \n3. Add onion, garlic, carrots, and celery to the skillet. Cook until vegetables are tender, stirring occasionally. \n4. Stir in beef broth, tomato paste, Worcestershire sauce, salt, and black pepper. Simmer for 10 minutes. \n5. Transfer beef mixture to a baking dish. Spoon mashed potatoes on top and spread evenly. \n6. Bake for 25-30 minutes, or until mashed potatoes are golden brown. \n7. Serve and enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Roasted Butternut Squash Soup",
+        "ingredients": [
+          "Butternut squash",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Vegetable broth",
+          "Cinnamon",
+          "Nutmeg",
+          "Salt",
+          "Pepper",
+          "Heavy cream"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Cut butternut squash in half and remove seeds. 3. Brush squash with olive oil and sprinkle with salt and pepper. 4. Roast squash in oven for 45-60 minutes until tender. 5. Saute onion and garlic in a pot until softened. 6. Add roasted squash, vegetable broth, cinnamon, nutmeg, salt, and pepper. 7. Bring to a boil and let simmer for 10-15 minutes. 8. Puree soup in a blender or with an immersion blender. 9. Add heavy cream and adjust seasoning to taste.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Lemon Garlic Chicken",
+        "ingredients": [
+          "Chicken breasts",
+          "Lemon",
+          "Garlic",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Parsley"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Season chicken with salt, pepper, and chopped parsley. 3. In a bowl, whisk together lemon juice, minced garlic, and olive oil. 4. Place chicken in a baking dish and pour lemon-garlic mixture over chicken. 5. Bake chicken for 25-30 minutes until cooked through.",
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Sarah Kim",
+    "pictureURL": "https://example.com/sarah_kim.jpg",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 30,
+    "totalLikes": 200,
+    "bio": "Celebrity chef with a signature line of gourmet frozen meals and cookbooks.",
+    "recipes": [
+      {
+        "recipeName": "Fish and Chips",
+        "ingredients": [
+          "1 lb cod fillets",
+          "1 cup all-purpose flour",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1 cup beer",
+          "4 large potatoes, peeled and cut into thick fries",
+          "2 cups vegetable oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 200�F. \n2. In a large bowl, whisk together flour, salt, and black pepper. Slowly whisk in beer until batter is smooth. \n3. Heat vegetable oil in a large pot over medium-high heat. \n4. Dip cod fillets in batter, letting excess drip off, then place in hot oil. Cook for 4-5 minutes per side, or until golden brown and crispy. Remove with a slotted spoon and drain on paper towels. \n5. In a separate pot, fry potatoes in hot oil for 4-5 minutes, or until golden...",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+          "Chicken breasts",
+          "Spinach",
+          "Feta cheese",
+          "Garlic",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Paprika"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Mix together chopped spinach, crumbled feta cheese, minced garlic, olive oil, salt, pepper, and paprika. 3. Cut a pocket in the thickest part of each chicken breast. 4. Stuff each chicken breast with spinach-feta mixture. 5. Season outside of chicken with salt, pepper, and paprika. 6. Bake chicken for 25-30 minutes until cooked through.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+          "Chicken breasts",
+          "Flour",
+          "Eggs",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Salt",
+          "Pepper",
+          "Olive oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Pound chicken breasts to even thickness. 3. Season chicken with salt and pepper. 4. Dredge chicken in flour, then beaten eggs, then breadcrumbs mixed with grated Parmesan cheese. 5. Heat olive oil in a pan and cook chicken until browned on both sides. 6. Place chicken in a baking dish and cover with tomato sauce and shredded mozzarella cheese. 7. Bake chicken for 20-25 minutes until cheese is melted and bubbly.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Michael Chen",
+    "pictureURL": "https://example.com/michael_chen.jpg",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 70,
+    "totalLikes": 1000,
+    "bio": "Plant-based chef with a passion for creating delicious and nutritious vegan meals.",
+    "recipes": [
+      {
+        "recipeName": "Chicken Curry",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into cubes",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "1 can coconut milk",
+          "2 tablespoons curry powder",
+          "1 tablespoon tomato paste",
+          "1 tablespoon vegetable oil",
+          "Salt and pepper to taste",
+          "Cilantro for serving"
+        ],
+        "cookingMethod": "Heat oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add chicken and cook until browned. Add curry powder and tomato paste and cook for 1 minute. Add coconut milk and simmer for 10 minutes. Serve over rice with cilantro.",
+        "rating": 4.2
+      },
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Carrots",
+          "Celery",
+          "Tomato paste",
+          "Canned diced tomatoes",
+          "Red wine",
+          "Bay leaves",
+          "Salt",
+          "Pepper",
+          "Parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a pan. 3. Add onion and garlic and cook until softened. 4. Add diced carrots and celery and cook for a few minutes. 5. Stir in tomato paste, canned diced tomatoes, red wine, bay leaves, salt, and pepper. 6. Simmer for 30-45 minutes until sauce thickens. 7. Serve over cooked spaghetti and top with Parmesan cheese.",
+        "rating": 4.5
+      },
+
+      {
+        "recipeName": "Vegetable Stir-Fry",
+        "ingredients": [
+          "Broccoli",
+          "Carrots",
+          "Bell pepper",
+          "Onion",
+          "Garlic",
+          "Soy sauce",
+          "Honey",
+          "Cornstarch",
+          "Ginger",
+          "Salt",
+          "Pepper",
+          "Rice"
+        ],
+        "cookingMethod": "1. Cook rice according to package instructions. 2. Cut broccoli, carrots, and bell pepper into bite-sized pieces. 3. In a pan, saute onion and garlic until softened. 4. Add broccoli, carrots, and bell pepper and cook until vegetables are tender. 5. In a separate bowl, whisk together soy sauce, honey, cornstarch, grated ginger, salt, and pepper. 6. Pour sauce over vegetables and cook until sauce thickens. 7. Serve over cooked rice.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lisa Nguyen",
+    "pictureURL": "https://example.com/lisa_nguyen.jpg",
+    "yearsOfExperience": 4,
+    "numberOfRecipes": 20,
+    "totalLikes": 75,
+    "bio": "Chef specializing in fusion cuisine, blending flavors and techniques from around the world.",
+    "recipes": [
+      {
+        "recipeName": "Beef Stew",
+        "ingredients": [
+          "2 pounds beef stew meat",
+          "3 tablespoons flour",
+          "3 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "4 cups beef broth",
+          "4 carrots, peeled and chopped",
+          "3 potatoes, peeled and chopped",
+          "1 teaspoon dried thyme",
+          "Salt and pepper to taste",
+          "Parsley for serving"
+        ],
+        "cookingMethod": "Toss beef with flour to coat. Heat oil in a large pot over medium-high heat. Brown beef on all sides. Add onion and garlic and cook until softened. Add beef broth, carrots, potatoes, thyme, salt, and pepper. Simmer for 2 hours. Serve with parsley.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+          "Chicken breasts",
+          "Flour",
+          "Eggs",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Salt",
+          "Pepper",
+          "Olive oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Pound chicken breasts to even thickness. 3. Season chicken with salt and pepper. 4. Dredge chicken in flour, then beaten eggs, then breadcrumbs mixed with grated Parmesan cheese. 5. Heat olive oil in a pan and cook chicken until browned on both sides. 6. Place chicken in a baking dish and cover with tomato sauce and shredded mozzarella cheese. 7. Bake chicken for 20-25 minutes until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Vegetable Stir-Fry",
+        "ingredients": [
+          "Broccoli",
+          "Carrots",
+          "Bell pepper",
+          "Onion",
+          "Garlic",
+          "Soy sauce",
+          "Honey",
+          "Cornstarch",
+          "Ginger",
+          "Salt",
+          "Pepper",
+          "Rice"
+        ],
+        "cookingMethod": "1. Cook rice according to package instructions. 2. Cut broccoli, carrots, and bell pepper into bite-sized pieces. 3. In a pan, saute onion and garlic until softened. 4. Add broccoli, carrots, and bell pepper and cook until vegetables are tender. 5. In a separate bowl, whisk together soy sauce, honey, cornstarch, grated ginger, salt, and pepper. 6. Pour sauce over vegetables and cook until sauce thickens. 7. Serve over cooked rice.",
+        "rating": 4.2
+      }
+    ]
+  }
+]
