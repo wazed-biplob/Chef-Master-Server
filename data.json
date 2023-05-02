@@ -4,7 +4,7 @@
     "name": "John Smith",
     "pictureURL": "https://i.ibb.co/fqynLYJ/John.jpg",
     "yearsOfExperience": 5,
-    "numberOfRecipes": 25,
+    "numberOfRecipes": 3,
     "totalLikes": 100,
     "bio": "Chef with a focus on farm-to-table cuisine and using locally sourced ingredients.",
     "recipes": [
@@ -62,7 +62,7 @@
     "name": "Emily Jones",
     "pictureURL": "https://i.ibb.co/RpTsVT9/Emily.jpg",
     "yearsOfExperience": 10,
-    "numberOfRecipes": 50,
+    "numberOfRecipes": 3,
     "totalLikes": 500,
     "bio": "Award-winning pastry chef known for creative and innovative dessert creations.",
     "recipes": [
@@ -123,7 +123,7 @@
     "name": "David Lee",
     "pictureURL": "https://i.ibb.co/P4ZTwsg/David.jpg",
     "yearsOfExperience": 3,
-    "numberOfRecipes": 15,
+    "numberOfRecipes": 3,
     "totalLikes": 50,
     "bio": "Chef specializing in traditional Italian cuisine with a modern twist.",
     "recipes": [
@@ -184,7 +184,7 @@
     "name": "Sarah Kim",
     "pictureURL": "https://i.ibb.co/3yhxggm/Sarah.jpg",
     "yearsOfExperience": 7,
-    "numberOfRecipes": 30,
+    "numberOfRecipes": 3,
     "totalLikes": 200,
     "bio": "Celebrity chef with a signature line of gourmet frozen meals and cookbooks.",
     "recipes": [
@@ -241,7 +241,7 @@
     "name": "Michael Chen",
     "pictureURL": "https://i.ibb.co/zVHWNjQ/Michael.jpg",
     "yearsOfExperience": 12,
-    "numberOfRecipes": 70,
+    "numberOfRecipes": 3,
     "totalLikes": 1000,
     "bio": "Plant-based chef with a passion for creating delicious and nutritious vegan meals.",
     "recipes": [
@@ -308,7 +308,7 @@
     "name": "Lisa Nguyen",
     "pictureURL": "https://i.ibb.co/88mZQyk/Lisa.jpg",
     "yearsOfExperience": 4,
-    "numberOfRecipes": 20,
+    "numberOfRecipes": 3,
     "totalLikes": 75,
     "bio": "Chef specializing in fusion cuisine, blending flavors and techniques from around the world.",
     "recipes": [
