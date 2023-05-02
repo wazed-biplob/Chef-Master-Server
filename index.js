@@ -11,8 +11,8 @@ app.get("/data", (req, res) => {
   res.send(data);
 });
 app.get("/data/:id", (req, res) => {
-  const id = parseInt(req.params.id);
-  const chefId = data.find((chef) => parseInt(chef.id) === id);
+  const id = req.params.id;
+  const chefId = data.find((chef) => parseInt(chef.id) === parseInt(id));
   res.send(chefId);
 });
 app.listen(port, () => {
